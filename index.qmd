@@ -47,8 +47,8 @@ WhiteHat Jr. | *Aug 2020 – Feb 2024*
 # 🧠 Skills
 
 - **Technical**: Python, JavaScript, HTML/CSS, React Native, jQuery, AFRAME  
-- **Education-Focused**: Curriculum delivery, instructional design, student engagement  
-- **Business**: Leadership, operations, sales, team management, CRM  
+- **Education-Focused**: Curriculum delivery, Instructional design, Student engagement  
+- **Business**: Leadership, Operations, Sales, Team management, CRM  
 - **Languages**: English (Fluent)  
 
 # 📫 Contact
