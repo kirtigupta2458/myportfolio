@@ -1,0 +1,59 @@
+---
+title: "Kirti - MBA Portfolio"
+---
+<button class="toggle-btn" onclick="document.body.classList.toggle('dark-mode')">
+  Toggle Dark Mode
+</button>
+
+<div class="intro-section">
+  <img src="kirti.jpg" class="profile-img">
+  <h1>Hi, I'm Kirti</h1>
+  <p>An MBA student blending data, education, and technology.</p>
+</div>
+
+# 🎯 About Me
+
+I’m an MBA student with a strong foundation in STEM and over four years of international teaching experience. Currently, I work as the Assistant Centre Director at Mathnasium West Vancouver, where I lead instructional strategy, team operations, and customer engagement. I’m deeply interested in data analysis, educational innovation, and digital transformation, and I’m actively exploring roles where I can combine technical, teaching, and business knowledge to solve meaningful problems.
+
+# 🎓 Education
+
+**Master of Business Administration**  
+University Canada West | *2024 – Present*
+
+**Master of Science (Zoology)**  
+Punjabi University, Patiala, India | *2018 – 2020*
+
+**Bachelor of Science (Bioinformatics)**  
+Guru Nanak Dev University, Amritsar, India | *2015 – 2018*
+
+
+# 💼 Experience
+
+**Assistant Centre Director**  
+Mathnasium of West Vancouver | *May 2024 – Present*  
+- Manage day-to-day centre operations and lead the instructional team  
+- Provide high-quality customer support and sales consultation to families  
+- Support the Centre Director in planning, scheduling, and performance tracking  
+- Drive collaboration and team culture to ensure student success  
+
+**Programming & Math Instructor**  
+WhiteHat Jr. | *Aug 2020 – Feb 2024*  
+- Delivered 1:1 and small group programming lessons to students globally (Grades 4–10)  
+- Taught real-world projects involving games, websites, apps, data science, VR/AR, and cybersecurity  
+- Conducted interactive and story-based math sessions for Grades 7–8  
+- Taught students from diverse regions including the US, UK, Canada, Australia, and more  
+
+
+# 🧠 Skills
+
+- **Technical**: Python, JavaScript, HTML/CSS, React Native, jQuery, AFRAME  
+- **Education-Focused**: Curriculum delivery, instructional design, student engagement  
+- **Business**: Leadership, operations, sales, team management, CRM  
+- **Languages**: English (Fluent)  
+
+# 📫 Contact
+
+📍 Vancouver, BC  
+📞 +1 (236) 330‑7967  
+📧 kirti.gupta1219@gmail.com  
+

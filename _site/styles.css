@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300;600;800&display=swap');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css');
+
+:root {
+  --bg: #fdfcff;
+  --text: #333;
+  --accent: #4682b4;
+  --fade: #e0ecff;
+}
+
+body {
+  font-family: 'Nunito', sans-serif;
+  background-color: var(--bg);
+  color: var(--text);
+  line-height: 1.7;
+  transition: background-color 0.3s ease, color 0.3s ease;
+  animation: fadeIn 1s ease-in;
+}
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+.intro-section {
+  background: linear-gradient(135deg, var(--fade), #fff6f6);
+  padding: 2rem;
+  text-align: center;
+  border-radius: 12px;
+  margin-bottom: 2rem;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+.intro-section h1 {
+  font-size: 2.2rem;
+  margin: 0.5rem 0;
+  color: #2c3e50;
+}
+
+.intro-section p {
+  font-size: 1.1rem;
+  color: #5c5c5c;
+}
+
+.profile-img {
+  width: 130px;
+  height: 130px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 4px solid var(--accent);
+  margin-bottom: 1rem;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+h2, h3 {
+  color: #1e3c72;
+  margin-top: 2rem;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 0.2rem;
+}
+
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+ul li::before {
+
+  color: #e67e22;
+}
+
+a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Contact Icons */
+.contact-icons i {
+  margin-right: 8px;
+  color: var(--accent);
+}
+
+/* Dark mode */
+.dark-mode {
+  --bg: #1a1a1a;
+  --text: #e0e0e0;
+  --accent: #66c2ff;
+  --fade: #2c3e50;
+  transition: all 0.3s ease-in-out;
+}
+
+.toggle-btn {
+  position: fixed;
+  top: 16px;
+  right: 20px;
+  background-color: var(--accent);
+  color: white;
+  border: none;
+  padding: 10px 14px;
+  font-size: 14px;
+  font-weight: bold;
+  border-radius: 10px;
+  cursor: pointer;
+  z-index: 9999;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
+
